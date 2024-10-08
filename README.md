@@ -1,5 +1,6 @@
 # An Exploration of Text Infilling Techniques and Custom Mask Design
 
+The literature survey can be found [here](https://github.com/daironghan/An-Exploration-of-Text-Infilling-Techniques-and-Custom-Mask-Design/blob/main/Paper.pdf).
 
 ## Running the Code
 First, upload the downloaded folder `Project` into Google Drive, open the notebook `project.ipynb` in Colab. <br> 
